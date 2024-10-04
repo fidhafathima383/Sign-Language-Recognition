@@ -11,8 +11,13 @@ Image preprocessing using OpenCV for hand segmentation and background removal
 
 Expandable to other sign languages
 
+
 Technologies Used:
+
 Python
+
 OpenCV
+
 TensorFlow/Keras
+
 Jupyter Notebook
